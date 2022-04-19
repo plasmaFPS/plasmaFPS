@@ -1,6 +1,8 @@
 
 ## Hello i'm plasma :) Self taught, FiveM QBCore Developer
 
+![](https://komarev.com/ghpvc/?username=plasmaFPS&color=green)
+
 ### Languages:
 <a href="https://www.lua.org/" target="_blank"> <img align="left" alt="Lua" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png"/> </a>
 <br>
