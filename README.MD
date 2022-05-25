@@ -11,8 +11,10 @@
 <br>
 
 ### About me:
-[Innovative Studios](https://discord.iv-studios.net) - Developer creating FiveM QBCore Resources & Websites
-
+- [Woodlands Roleplay](https://discord.gg/Ap8bYDrwca) - FiveM Manager
+- [RoleWithIt Roleplay](https://rolewithitrp.com) - Developer
+- [Innovative Studios](https://discord.iv-studios.net) - Resource Developer
+ 
 ### Languages
 - Lua | Skilled
 
