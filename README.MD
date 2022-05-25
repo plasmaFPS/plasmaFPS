@@ -1,5 +1,5 @@
 
-## Hello i'm plasma :) Self taught, FiveM QBCore Developer
+## Hello i'm plasma :) Self taught, FiveM QBCore Developer & FiveM Server Manager
 
 ![](https://komarev.com/ghpvc/?username=plasmaFPS&color=green)
 
