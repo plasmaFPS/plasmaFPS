@@ -11,11 +11,9 @@
 <br>
 
 ### About me:
-- [Woodlands Roleplay](https://discord.gg/Ap8bYDrwca) - FiveM Manager
-- [RoleWithIt Roleplay](https://rolewithitrp.com) - Developer
 - [Innovative Studios](https://discord.iv-studios.net) - Resource Developer
 
-You won't find much here on my github profile. Most of my work is done privately for specific servers i work for, or normally my releases are paid and purchasable via Innovative Studios linked above. Any questions about private work can be directed to my discord profile: plasma#2782
+You won't find much here on my github profile. Most of my work is private client based, or normally my releases are paid and purchasable via Innovative Studios linked above. Any questions about private work can be directed to my discord: plasma#2782
  
 ### Languages
 - Lua | Skilled
