@@ -1,5 +1,5 @@
 
-## Hello i'm plasma :) | Self taught FiveM Developer & Server Manager
+## Hello i'm plasma :) | Self taught FiveM Developer
 
 ![](https://komarev.com/ghpvc/?username=plasmaFPS&color=green)
 
@@ -13,11 +13,10 @@
 <br>
 
 ### About me:
-- [Innovative Studios](https://discord.iv-studios.net) - Resource Developer
+- [WYLDFIRE Gaming](https://wyldfire.gg) - Lead Developer
 
-You won't find much here on my github profile. Most of my work is private client based, or normally my releases are paid and purchasable via Innovative Studios linked above. Any questions about private work can be directed to my discord: plasma#7774
- 
-### Languages
-- Lua | Skilled
+### My Work:
+- Free Resources: [WYLDFIRE Studios GitHub](https://github.com/WYLDFIRE-Studios)
+- Paid Resources: [WYLDFIRE Studios Tebex](https://store.wyldfire.gg)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=plasmaFPS&show_icons=true&theme=radical" />
