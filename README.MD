@@ -17,6 +17,6 @@
 
 ### My Work:
 - Free Resources: [WYLDFIRE Studios GitHub](https://github.com/WYLDFIRE-Studios)
-- Paid Resources: [WYLDFIRE Studios Tebex](https://store.wyldfire.gg)
+- Paid Resources: [WYLDFIRE Studios Tebex](https://wyldfirerp.com)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=plasmaFPS&show_icons=true&theme=radical" />
